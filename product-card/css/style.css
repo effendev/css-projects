@@ -85,6 +85,16 @@
     background-color: #ff9f00;
 }
 
+.info-box .button-group button.buy-product:hover {
+    background-color: rgb(18, 202, 77);
+    cursor: pointer;
+}
+
 .info-box .button-group button.add-to-cart {
     background-color: #fb641b;   
+}
+
+.info-box .button-group button.add-to-cart:hover {
+    background-color: rgb(12, 137, 52);
+    cursor: pointer;
 }
